@@ -1,10 +1,10 @@
-# Flix
+# Flixer
 
-Flix is an app that allows users to browse movies from [The Movie Database API](http://docs.themoviedb.apiary.io/#).
+Flixer is an app that allows users to browse movies from [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
 ---
 
-## Flix Part 2
+## Flixer Part 2
 
 ### User Stories
 
@@ -29,7 +29,7 @@ Flix is an app that allows users to browse movies from [The Movie Database API](
 
 
 
-## Flix Part 1
+## Flixer Part 1
 
 ### User Stories
 `TODO://` In the **User Stories section below**, add an `x` in the `-[ ]` like this `- [x]` for any user story you complete. (🚫 Remove this paragraph after checking off completed user stories)
