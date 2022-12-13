@@ -1,6 +1,8 @@
 # Flixer
 
-Flixer is an app that allows users to browse movies from [The Movie Database API](http://docs.themoviedb.apiary.io/#).
+Flixer is an iOS movie browsing app–similar to Fandango and Rotten Tomatoes–that lets a user view and scroll through the list of the most current 20 movies in theaters. Flixer also contains a dedicated view with the full synopsis and poster of the selected movie. For superhero lovers, there is also a tab just for the latest superhero movies with their perspective posters and synopsis upon touch.
+
+I developed Flixter using Xcode 13, and retrieved the movie’s information using [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
 ---
 
