@@ -93,16 +93,16 @@
 			isa = PBXGroup;
 			children = (
 				31BF566C28C28F0D00DBBA67 /* AppDelegate.swift */,
-				31BF567228C28F0D00DBBA67 /* Main.storyboard */,
 				3122086628D285A700BC4B8D /* MovieGridCell.swift */,
 				31BF568228C29B2500DBBA67 /* MovieCell.swift */,
 				31266F7D28D0D4BE00BACE17 /* MovieDetailsViewController.swift */,
 				31266F8228D2426C00BACE17 /* MovieGridViewController.swift */,
 				3122086828D36FC800BC4B8D /* GridDetailsViewController.swift */,
-				31BF567528C28F0F00DBBA67 /* Assets.xcassets */,
 				31BF566E28C28F0D00DBBA67 /* SceneDelegate.swift */,
 				31BF568028C2917900DBBA67 /* MoviesViewController.swift */,
+				31BF567228C28F0D00DBBA67 /* Main.storyboard */,
 				31BF567728C28F0F00DBBA67 /* LaunchScreen.storyboard */,
+				31BF567528C28F0F00DBBA67 /* Assets.xcassets */,
 				31BF567A28C28F0F00DBBA67 /* Info.plist */,
 			);
 			path = Flixer;
